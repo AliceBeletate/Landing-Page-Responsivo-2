@@ -5,5 +5,5 @@ Projeto desenvolvido através do curso do <a href="https://rodolfomori.com.br/de
 <br>
 
 <h2>Imagem do Projeto</h2>
-
+<img src="https://github.com/AliceBeletate/Landing-Page-Responsivo-2/blob/main/final.jpg?raw=true" />
 
