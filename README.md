@@ -2,7 +2,8 @@
 
 Projeto desenvolvido através do curso do <a href="https://rodolfomori.com.br/devclub/">DevClub <a/>. O projeto aplica os conhecimentos de HTML e CSS.
 
+<br>
 
-<h1>Imagem do Projeto</h1>
+<h2>Imagem do Projeto</h2>
 
 
